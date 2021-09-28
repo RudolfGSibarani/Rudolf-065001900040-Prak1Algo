@@ -1,0 +1,12 @@
+print("@ @ @ @   @     @  @ @ @ @    @ @ @ @   @        @ @ @ @")
+print("@      @  @     @  @      @  @       @  @        @")
+print("@     @   @     @  @      @  @       @  @        @")
+print("@   @     @     @  @      @  @       @  @        @ @ @")
+print("@ @       @     @  @      @  @       @  @        @")
+print("@  @      @     @  @      @  @       @  @        @")
+print("@   @     @     @  @      @  @       @  @        @")
+print("@    @    @     @  @      @  @       @  @        @")
+print("@     @    @ @ @   @ @ @ @    @ @ @ @   @ @ @ @  @")
+
+print('Dia berkata, "Tolong peluk dia <3"')
+print('I`m driving car right now')
